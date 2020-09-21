@@ -1,11 +1,22 @@
 {
   "name": "npm-learning",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yzq327/npm-learning.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yzq327/npm-learning/issues"
+  },
+  "homepage": "https://github.com/yzq327/npm-learning#readme",
+  "description": "",
+  "dependencies": {
+    "lodash": "^4.17.20"
+  }
 }
